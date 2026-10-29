@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/portugal-tenders",
   "title": "Portugal Tenders",
   "description": "Portugal public procurement MCP -- IMPIC (Instituto dos Mercados Públicos, do Imobiliário e da…",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/portugal-tenders",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-portugal-tenders",
