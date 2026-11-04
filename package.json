@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-portugal-tenders",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Portugal public procurement MCP -- IMPIC (Instituto dos Mercados Públicos, do Imobiliário e da Construção), Portugal's public-procurement regulator, via its open-data publication on dados.gov.pt.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "portugal-tenders",
     "gatewaySlug": "portugal-tenders",
-    "sourceHash": "v1-d9ba67aadb4b3437061dead61e9e08b10d6162b2edd45bae03caa4c93c41ef60",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-f48ed8af8da292a71d8c75730d34ecc223f617d06d968b4f217094b9fea1735c",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
